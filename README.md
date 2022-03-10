@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuki-zaharia
+- 👋 Hi, I’m Yuki
 - 👀 I’m interested in art, psychology, yoga, gaming and books
 - 🌱 I’m currently learning Javascript on an intermediate level
 - 💞️ I’m looking to collaborate on branding, graphic and web design projects
